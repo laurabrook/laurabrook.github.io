@@ -25,7 +25,7 @@ var addressPoints = [
     -0.1679355
   ],
   [
-    "\u2018Deathwards progressing | To no death\u2019: Keatsian immortality and the two Hyperions<br />British Association for Romantic Studies ECR Conference; University of Edinburgh, Edinburgh, Scotland",
+    "\u2018Deathwards progressing / To no death\u2019: Keatsian immortality and the two Hyperions<br />British Association for Romantic Studies ECR Conference; University of Edinburgh, Edinburgh, Scotland",
     55.9440765,
     -3.1883736
   ]
