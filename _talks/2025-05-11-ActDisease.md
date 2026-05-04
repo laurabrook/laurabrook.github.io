@@ -1,5 +1,5 @@
 ---
-title: "‘‘I am merely a poet dying far from home’: The Many Deaths of John Keats’"
+title: "‘I am merely a poet dying far from home’: The Many Deaths of John Keats"
 collection: talks
 type: "Seminar"
 permalink: /talks/2025-05-11-ActDisease

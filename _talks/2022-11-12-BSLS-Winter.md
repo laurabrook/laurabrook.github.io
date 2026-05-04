@@ -1,5 +1,5 @@
 ---
-title: "‘‘Coffin’d bones, and funeral stole’: Keats’s Isabella and the Politics of Bodysnatching’"
+title: "‘Coffin’d bones, and funeral stole’: Keats’s Isabella and the Politics of Bodysnatching"
 collection: talks
 type: "Conference Presentation"
 permalink: /talks/2022-11-12-BSLS-Winter

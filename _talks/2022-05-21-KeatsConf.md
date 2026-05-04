@@ -1,5 +1,5 @@
 ---
-title: "‘Quarantining Keats: Palliation, Isolation and the Poet-Patient’"
+title: "Quarantining Keats: Palliation, Isolation and the Poet-Patient"
 collection: talks
 type: "Conference Presentation"
 permalink: /talks/2022-05-21-KeatsConf
