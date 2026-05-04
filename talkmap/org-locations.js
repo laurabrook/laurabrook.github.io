@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Breaking the Rules: Autistic-Led Pedagogy in Literary Studies<br />British Society for Literature and Science 2026; University of Strathclyde, Glasgow, Scotland",
+    55.8618812,
+    -4.2419566
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
