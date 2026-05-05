@@ -23,7 +23,7 @@ repository               : "laurabrook/laurabrook.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot1.png"
   name             : "Dr Laura Brook"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in the medical humanities and early nineteenth-century poetry."
