@@ -8,12 +8,3 @@ date: 2022-01-01
 location: "Edinburgh, Scotland"
 ---
 Planned and delivered tutorials to first-year undergraduates, teaching critical approaches to poetry.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
